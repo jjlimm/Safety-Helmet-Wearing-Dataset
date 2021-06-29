@@ -12,6 +12,10 @@ SHWD provide the dataset used for both safety helmet wearing and human head dete
 ### Dataset
 [BaiduDrive](https://pan.baidu.com/s/1UbFkGm4EppdAU660Vu7SdQ)
 [GoogleDrive](https://drive.google.com/open?id=1qWm7rrwvjAWs1slymbrLaCf7Q-wnGLEX)
+
+## ERROR in annotation file 000377.xml
+Annotations file includes labels dogs. Should be replaced with hat instead.
+
 ### Model
 [BaiduDrive](https://pan.baidu.com/s/1dWNU_q59sw1a3TVtV7VXEg)
 [GoogleDrive](https://drive.google.com/open?id=1_0A-bQbsprzStefQOMiQpLn8JZBchqho)
